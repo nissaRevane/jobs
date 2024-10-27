@@ -10,3 +10,8 @@ The commission is split like this:
 - the rest goes to us
 
 Compute the amount that belongs to the insurance, to the assistance and to us.
+
+# Tests
+
+The unit tests use the default ruby librairy `test_unit`. Run these commands to launch the tests
+`find tests -name "*.rb" -exec ruby {} \;`
