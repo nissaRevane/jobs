@@ -17,3 +17,8 @@ The rental price is the sum of:
 - A time component: the number of rental days multiplied by the car's price per day
 - A distance component: the number of km multiplied by the car's price per km
 
+# Tests
+
+The unit tests use the default ruby librairy `test_unit`. Run this command to launch the tests
+`ruby tests/rentals_controller_test.rb`
+
